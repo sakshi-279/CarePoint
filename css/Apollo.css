@@ -1,0 +1,198 @@
+*{
+
+     margin: 0%;
+     padding: 0%;
+}
+.logo{
+     max-height:600vh;
+     
+    background-color: #d3daea;
+    
+}
+.img{
+     height:600px;
+     width:100%;
+}
+.box1{
+     min-height:250px;
+     width:25%;
+     /*background-image: linear-gradient(to left,red, green);*/
+     background-color: dodgerblue;
+     text-align: center;
+
+}
+.box2{
+    min-height:250px;
+     width:25%;
+     background-image: linear-gradient(to right,rgb(107, 224, 154), rgb(50, 131, 231));
+     
+
+}
+.box3{
+     min-height:250px;
+     width:25%;
+     background-image: linear-gradient(to right,rgb(44, 230, 119), rgba(94, 156, 232, 0.927));
+}
+.box4{
+     min-height:250px;
+     width:25%;
+    background-color: rgba(23, 215, 100, 0.838);
+}
+.circle{
+     height:50px;
+     width:50px;
+    background-color: white;
+     border-radius: 50%;
+}
+.circle1{
+     height:50px;
+     width:50px;
+    background-color: dodgerblue;
+     border-radius: 50%;
+     color:black;
+}
+.bgimg{
+     height:300%;
+     background-image: url('../images/istockphoto-695337976-170667a.jpg');
+     background-attachment:fixed;
+    
+    
+     background-repeat: no-repeat;
+     background-size: cover;
+    
+}
+.bgimginner{
+     height:300%;
+     background-color: rgba(94, 177, 244, 0.772);
+     color : white;
+}
+.photo{
+     height:250px;
+     width:400px;
+}
+.gallery{
+    min-height:700px;
+     background-image: url('../images/GettyImages-80050600-web1_69414.jpg');
+    
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.bggalleryinner{
+    min-height:700px;
+     background-color: rgba(35, 217, 102, 0.772);
+     color : white;
+}
+.ga{
+     height:250px;
+     width:400px;
+}
+.doc{
+     height:250px;
+     width:250px;
+     border-radius:50%;
+     background-color: black;
+}
+.box__1{
+     min-height:350px;
+  
+     background-color: rgba(239, 83, 205, 0.509);
+}
+.box__2{
+    min-height:350px;
+    
+     background-color: rgba(116, 228, 37, 0.509);
+}
+.box__3{
+     min-height:350px;
+    
+     background-color: rgba(46, 231, 227, 0.509);
+}
+.bgimgo{
+     min-height:150px;
+     
+     background-image: url('../images/GettyImages-80050600-web1_69414.jpg');
+     background-attachment:fixed;
+    
+    
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.bgimgo1{
+     min-height:350px;
+     width:30%;
+     background-image: url('../images/videoblocks-interior-hospital-room-setting_sx-upnq4jb_thumbnail-1080_05.png');
+    
+    
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.bgimgo2{
+     min-height:350px;
+   width:30%;
+     background-image: url('../images/th\ \(4\).jfif');
+    
+    
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.bgimgo3{
+     min-height:350px;
+     width:30%;
+     background-image: url('../images/Medical-Equipment-Leasing-Rates-featured-scaled.jpg');
+    
+    
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.bgimgcon{
+     min-height:600px;
+   
+     background-image: url('../images/mediclinic.jpg');
+    
+    
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.bgimgconb{
+     min-height:600px;
+     background-color: rgba(37, 228, 212, 0.509);
+     color:black;
+}
+.boxcon1{
+     height:300px;
+     width:30%;
+     background-color: rgba(17, 229, 218, 0.698);
+     box-shadow: 5px 5px 30 rgba(16, 204, 189, 0.848);
+
+
+}
+.map{
+     min-height: 460px;
+     width:100%;
+}
+.reg{
+     width:100%;
+     height: 500px;
+}
+.imge{
+              
+     height: 600px;
+     background-image: url('../images/mediclinic.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+}
+.bga{
+     height:350px;
+    
+     background-color: rgba(43, 47, 7, 0.598);
+}
+.dash{
+     min-height: 400px;
+     width: 100%;
+     background-image: url('../images/th\ \(7\).jfif');
+     background-repeat: no-repeat;
+     background-size: cover;
+    
+}
